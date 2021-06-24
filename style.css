@@ -1,0 +1,18 @@
+* {
+  background-color: #222222;
+  margin: 100px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#myInput {
+  border-style: none none solid none;
+  opacity: 0.5;
+  outline: none;
+  color: white;
+}
+#copyText {
+  margin: 30px;
+}
